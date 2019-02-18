@@ -1,13 +1,13 @@
 {
-  "main.css": "/theodo-pokemon/static/css/main.d296d3f9.chunk.css",
-  "main.js": "/theodo-pokemon/static/js/main.1fc34e22.chunk.js",
-  "main.js.map": "/theodo-pokemon/static/js/main.1fc34e22.chunk.js.map",
-  "runtime~main.js": "/theodo-pokemon/static/js/runtime~main.f40e7d4b.js",
-  "runtime~main.js.map": "/theodo-pokemon/static/js/runtime~main.f40e7d4b.js.map",
-  "static/js/2.a881d5a0.chunk.js": "/theodo-pokemon/static/js/2.a881d5a0.chunk.js",
-  "static/js/2.a881d5a0.chunk.js.map": "/theodo-pokemon/static/js/2.a881d5a0.chunk.js.map",
-  "index.html": "/theodo-pokemon/index.html",
-  "precache-manifest.87096f8dbf2717256d05ff2383f28cbf.js": "/theodo-pokemon/precache-manifest.87096f8dbf2717256d05ff2383f28cbf.js",
-  "service-worker.js": "/theodo-pokemon/service-worker.js",
-  "static/css/main.d296d3f9.chunk.css.map": "/theodo-pokemon/static/css/main.d296d3f9.chunk.css.map"
+  "main.css": "/react-pokemon/static/css/main.6f2c31b3.chunk.css",
+  "main.js": "/react-pokemon/static/js/main.fd8801bd.chunk.js",
+  "main.js.map": "/react-pokemon/static/js/main.fd8801bd.chunk.js.map",
+  "runtime~main.js": "/react-pokemon/static/js/runtime~main.cb1defe9.js",
+  "runtime~main.js.map": "/react-pokemon/static/js/runtime~main.cb1defe9.js.map",
+  "static/js/2.a881d5a0.chunk.js": "/react-pokemon/static/js/2.a881d5a0.chunk.js",
+  "static/js/2.a881d5a0.chunk.js.map": "/react-pokemon/static/js/2.a881d5a0.chunk.js.map",
+  "index.html": "/react-pokemon/index.html",
+  "precache-manifest.a2d19ca1184402fa62d06c20e5909cf4.js": "/react-pokemon/precache-manifest.a2d19ca1184402fa62d06c20e5909cf4.js",
+  "service-worker.js": "/react-pokemon/service-worker.js",
+  "static/css/main.6f2c31b3.chunk.css.map": "/react-pokemon/static/css/main.6f2c31b3.chunk.css.map"
 }

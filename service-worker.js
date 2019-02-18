@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/theodo-pokemon/precache-manifest.87096f8dbf2717256d05ff2383f28cbf.js"
+  "/react-pokemon/precache-manifest.a2d19ca1184402fa62d06c20e5909cf4.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/theodo-pokemon/index.html", {
+workbox.routing.registerNavigationRoute("/react-pokemon/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
